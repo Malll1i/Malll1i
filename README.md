@@ -21,4 +21,4 @@
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Malll1i=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
