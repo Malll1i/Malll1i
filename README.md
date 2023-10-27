@@ -17,4 +17,4 @@
   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 
 
-  ![trophy](https://github-profile-trophy.vercel.app/Malll1iryo-ma&theme=onedark)
+  !(https://github-profile-trophy.vercel.app/Malll1iryo-ma&theme=onedark)
