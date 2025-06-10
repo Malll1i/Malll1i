@@ -16,6 +16,8 @@
 
 <h3 align="left">Backend:</h3>
 <a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer"> <img src="https://toplogos.ru/images/logo-phpmyadmin.png" alt="phpmyadmin" width="40" height="40"/> </a>
+<a href="[https://www.phpmyadmin.net](https://icon2.cleanpng.com/20180806/tq/202af82604f244d31acbf24e05e2caa7.webp)" target="_blank" rel="noreferrer"> <img src="https://toplogos.ru/images/logo-phpmyadmin.png" alt="phpmyadmin" width="40" height="40"/> </a>
+<a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer"> <img src="https://toplogos.ru/images/logo-phpmyadmin.png" alt="phpmyadmin" width="40" height="40"/> </a>
 
   <h3>Graphic editors</h3>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
