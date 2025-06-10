@@ -17,7 +17,7 @@
 <h3 align="left">Backend:</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/993323" alt="yii2" width="40" height="40"/> </a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer"> <img src="https://toplogos.ru/images/logo-phpmyadmin.png" alt="phpmyadmin" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
