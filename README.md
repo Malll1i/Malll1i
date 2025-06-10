@@ -15,9 +15,12 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <h3 align="left">Backend:</h3>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/993323" alt="yii2" width="40" height="40"/> </a>
+<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer"> <img src="https://toplogos.ru/images/logo-phpmyadmin.png" alt="phpmyadmin" width="40" height="40"/> </a>
-<a href="https://icon2.cleanpng.com/20180806/tq/202af82604f244d31acbf24e05e2caa7.webp" target="_blank" rel="noreferrer"> <img src="https://toplogos.ru/images/logo-phpmyadmin.png" alt="phpmyadmin" width="40" height="40"/> </a>
-<a href="https://www.phpmyadmin.net" target="_blank" rel="noreferrer"> <img src="https://toplogos.ru/images/logo-phpmyadmin.png" alt="phpmyadmin" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 
   <h3>Graphic editors</h3>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
