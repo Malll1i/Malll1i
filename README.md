@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A passionate developer from Russia</h3>
 
 <h3 align="left">Core:</h3>
 
